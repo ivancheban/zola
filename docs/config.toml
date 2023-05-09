@@ -1,4 +1,4 @@
-base_url = "https://www.getzola.org/"
+base_url = "https://ivan-zola.netlify.app/"
 title = "Zola"
 description = "Everything you need to make a static site engine in one binary."
 
